@@ -1,0 +1,9 @@
+/target
+/test-output/*
+/Maven Dependencies
+reports/*
+!reports/*.gitkeep
+*.metadata/
+.project
+*.classpath
+.settings*
